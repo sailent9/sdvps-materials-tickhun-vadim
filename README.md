@@ -69,10 +69,8 @@
 Задание 3
 
 установил Nexus
-
+запустил докер 
 ![image](https://github.com/sailent9/sdvps-materials-tickhun-vadim/assets/130309754/fde458fd-fe4f-448a-bc35-4b40b2867229)
-
-![image](https://github.com/sailent9/sdvps-materials-tickhun-vadim/assets/130309754/ee7ec44c-42f4-4e48-8b34-520a74294c05)
 
 ![image](https://github.com/sailent9/sdvps-materials-tickhun-vadim/assets/130309754/c1f65a66-a160-4652-b763-507eb20a36cc)
 
